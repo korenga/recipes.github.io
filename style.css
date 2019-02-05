@@ -1,0 +1,21 @@
+#world{
+    color: #FFFF00;
+}
+
+.bk_color{
+    color: #ffffff;
+    background-color: #ff00ff;
+    padding: 10px;
+    margin: auto;
+    border: 3px solid;
+    border-color: aqua;
+}
+
+.bk_color2{
+    color: hsla(0, 0%, 0%, 0.116);
+    background-color: #FFFF00;
+    padding: 10px;
+    margin: auto;
+    border: 3px solid;
+    border-color: aqua;
+}
